@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/RuanVFeitosa/RuanVFeitosa/stats-output/stats.sv](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=gamecereal2305)g" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/RuanVFeitosa/RuanVFeitosa/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
